@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3755f391af48f264d9cdcd60787173b0
+  - enabled: 1
+    path: Assets/Scenes/inHouse.unity
+    guid: 0a8ae2d2828b5f34b873d343263addc0
+  - enabled: 1
+    path: Assets/Scenes/OverWorld.unity
+    guid: 5ee3a88a64e48dd498780a5dcff7c94c
+  - enabled: 1
+    path: Assets/Scenes/Burch_Prunkhalle.unity
+    guid: b5921f505db8cf54a9099b27156243d6
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: 78d80b79ed4a5e74097f5231dcf7dc83
+  - enabled: 1
+    path: Assets/Scenes/Keller_1.unity
+    guid: 79e617dac65dbf44b869fa56322c396a
+  - enabled: 1
+    path: Assets/Scenes/Keller_2.unity
+    guid: 2063ff2d33c4a184da89ed8b2aa15ebd
+  - enabled: 1
+    path: Assets/Scenes/Burch_EG_links.unity
+    guid: 43c9cf0fbc5303940af62ca8d5709fe1
+  - enabled: 1
+    path: Assets/Scenes/Minh/Schlafzimmer.unity
+    guid: 0e558f5c6030ec945a3950582c69e7ff
+  - enabled: 1
+    path: Assets/Scenes/Minh/kleinerGang.unity
+    guid: 2c6af1695a6cbc844aa448b6e6bc961e
+  - enabled: 1
+    path: Assets/Scenes/Minh/Kerker.unity
+    guid: 85980189ed9f1ed4d860cf8a863d67f5
+  - enabled: 1
+    path: Assets/Scenes/Minh/inHouse 1.unity
+    guid: 782ec22f6d3db7348ab043ff1a86caaf
+  - enabled: 1
+    path: Assets/Scenes/Minh/inHouse 3.unity
+    guid: 1effdc8b809c7da4187e76b70e5ca7b6
+  - enabled: 1
+    path: Assets/Scenes/Burch_Dach.unity
+    guid: 3c7e75ed0a6c28d45b8b9273a6a0b219
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: d97cbd60fe54f694c8d3bf598436981f
+  - enabled: 1
+    path: Assets/Scenes/Endscreen.unity
+    guid: abee23fa7437b064da56cad2980b0099
+  m_configObjects: {}
